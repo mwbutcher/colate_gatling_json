@@ -4,9 +4,9 @@ script to parse gatling 2 json objects and generate csv data for import into goo
 
 ## Usage
 
-./colateGatlingStatsJson.sh <path to gatling sim dirs> <scenario name>
+./colateGatlingStatsJson.sh (path to gatling sim dirs) (scenario name)
 
-# should yield an output<seconds since epoch>.csv file
+should yield an output(seconds since epoch).csv file
 
 # sample output
 reports,1412263735962,1412267404101,1412271073014,1412275946970,1412286991804,1412298038315,1412309082570
